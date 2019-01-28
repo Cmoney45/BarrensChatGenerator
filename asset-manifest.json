@@ -1,13 +1,13 @@
 {
-  "main.css": "/React-portfolio/static/css/main.fda80ce0.chunk.css",
-  "main.js": "/React-portfolio/static/js/main.85357689.chunk.js",
-  "main.js.map": "/React-portfolio/static/js/main.85357689.chunk.js.map",
-  "static/js/1.9b0cdc60.chunk.js": "/React-portfolio/static/js/1.9b0cdc60.chunk.js",
-  "static/js/1.9b0cdc60.chunk.js.map": "/React-portfolio/static/js/1.9b0cdc60.chunk.js.map",
-  "runtime~main.js": "/React-portfolio/static/js/runtime~main.a2100186.js",
-  "runtime~main.js.map": "/React-portfolio/static/js/runtime~main.a2100186.js.map",
-  "static/css/main.fda80ce0.chunk.css.map": "/React-portfolio/static/css/main.fda80ce0.chunk.css.map",
-  "index.html": "/React-portfolio/index.html",
-  "precache-manifest.3b1df4ab95caf67cbe9fa6a0da7865da.js": "/React-portfolio/precache-manifest.3b1df4ab95caf67cbe9fa6a0da7865da.js",
-  "service-worker.js": "/React-portfolio/service-worker.js"
+  "main.css": "/BarrensChatGenerator/static/css/main.fda80ce0.chunk.css",
+  "main.js": "/BarrensChatGenerator/static/js/main.82da0378.chunk.js",
+  "main.js.map": "/BarrensChatGenerator/static/js/main.82da0378.chunk.js.map",
+  "static/js/1.9b0cdc60.chunk.js": "/BarrensChatGenerator/static/js/1.9b0cdc60.chunk.js",
+  "static/js/1.9b0cdc60.chunk.js.map": "/BarrensChatGenerator/static/js/1.9b0cdc60.chunk.js.map",
+  "runtime~main.js": "/BarrensChatGenerator/static/js/runtime~main.efcd2a97.js",
+  "runtime~main.js.map": "/BarrensChatGenerator/static/js/runtime~main.efcd2a97.js.map",
+  "static/css/main.fda80ce0.chunk.css.map": "/BarrensChatGenerator/static/css/main.fda80ce0.chunk.css.map",
+  "index.html": "/BarrensChatGenerator/index.html",
+  "precache-manifest.d332d4ddde70c87cbfe51866ac279cfb.js": "/BarrensChatGenerator/precache-manifest.d332d4ddde70c87cbfe51866ac279cfb.js",
+  "service-worker.js": "/BarrensChatGenerator/service-worker.js"
 }
