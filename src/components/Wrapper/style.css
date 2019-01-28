@@ -1,0 +1,25 @@
+.wrapper {
+    max-width: 1024px;
+    margin: auto;
+    overflow: auto;
+}
+
+@media (max-width: 980px) {
+    .wrapper{
+        max-width: 980px;
+    }
+}
+
+@media (max-width: 768px) {
+    .wrapper{
+        max-width: 768px;
+        margin: 0 15px;
+    }
+}
+
+@media (max-width: 640px) {
+    .wrapper{
+        max-width: 640px;
+        margin: 0;
+    }
+}

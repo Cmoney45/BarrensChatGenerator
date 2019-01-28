@@ -1,0 +1,77 @@
+/* MyNav Styles */
+
+h1 {
+    color:#ffffff;
+    background-color: #a00000;
+    padding: 30px;
+    text-align: center;
+    font-size: 2em;
+    margin: 0;
+}
+
+nav {
+    margin: 40px 0 0 0;
+}
+
+.button {
+    font-size: 1.2em;
+    background-color: #ffffff; 
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    border-right: 1px solid #888;
+    color: #888;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    float: right;
+    outline: none;
+}
+
+.button:first-child {
+    border-right: none; /* Prevent double borders */
+}
+
+.button:hover {
+    border-bottom: 2px solid #a00000;
+}
+
+.button.currentPage {
+    background-color: #cccccb;
+    border-bottom: 2px solid #a00000;
+
+}
+
+header {
+    width: 100%;
+    border-bottom: solid #cccccc 2px;
+    background-color: #E7CFA3;
+    overflow: auto;
+    position: relative;
+}
+
+nav {
+    margin: 40px 0 0 0;
+}
+
+@media only screen and (max-width: 640px) {
+    h1 {
+        width: 100%;
+        padding: 20px 0;
+        font-size: 1.5em;
+    };
+}
+
+@media only screen and (max-width: 640px) {
+
+    .btn-group {
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 640px) {
+
+    .button {
+        width: 22%; /* React wants this to equal 33% of screen */
+    }
+}

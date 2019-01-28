@@ -1,0 +1,21 @@
+/* BodyHeader Styles */
+
+#main-body {
+    font-family: arial,palatino, georgia, verdana, arial, sans-serif;
+    color: #000000;
+    padding: 5px;
+    margin-bottom: 4px;
+    font-size: 13px;
+    font-weight: normal;
+    background-color: #E7CFA3;
+    line-height: 100%;
+    margin-top: 195px;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+p {
+    text-indent: 20px;
+    line-height: 2;
+    margin-top: 10px;
+}
