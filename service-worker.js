@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BarrensChatGenerator/precache-manifest.d332d4ddde70c87cbfe51866ac279cfb.js"
+  "/BarrensChatGenerator/precache-manifest.b6cdd10c28f567fb63900f08a6408971.js"
 );
 
 workbox.clientsClaim();
