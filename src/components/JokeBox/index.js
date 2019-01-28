@@ -38,6 +38,8 @@ class JokeBox extends Component {
 
                     this.setState({ priorJokes: newArray })
                     this.setState({ jokeText: newJoke })
+                    this.props.reset();
+
                 }
 
             })
@@ -49,7 +51,6 @@ class JokeBox extends Component {
         event.preventDefault();
         this.delayedCallback(event);
         this.setState({copySuccess: ''});
-        this.props.reset();
         if(!this.state.clockRunning) {
             setInterval(this.props.increment, 1000);
             this.setState({clockRunning: true})

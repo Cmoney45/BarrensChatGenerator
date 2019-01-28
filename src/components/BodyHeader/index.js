@@ -4,6 +4,7 @@ import React, { Component } from 'react';
 import "./style.css";
 
 class BodyHeader extends Component {
+    
     timeConverter (t) {
 
         var minutes = Math.floor(t / 60);
